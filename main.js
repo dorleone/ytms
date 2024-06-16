@@ -19,7 +19,7 @@ function Get(){
        Music();
      }
      else{
-       alert('Enter Your YouTube Url...');
+       alert('Pune un link valid');
      }
 }
 function Music() {
